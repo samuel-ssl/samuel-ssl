@@ -1,4 +1,4 @@
-# Hi, I'm Samuel Lovato 👋
+# Hi, I'm Samuel👋
 
 🎮 Game Engineer | Gameplay Systems | Unity & C#  
 🎓 Bachelor’s Degree in Design – PUC-SP
